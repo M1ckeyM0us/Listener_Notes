@@ -14,7 +14,7 @@ public class Main {
 
         JTextField myTextField = new JTextField(10);
 
-        JLabel myLabel = new JLabel("");
+        JLabel myLabel = new JLabel(""); //hjhb
 
         myButton.addActionListener(new ActionListener() {
             @Override
